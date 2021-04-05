@@ -1,4 +1,4 @@
-# crash-course-2021
+# Tasks Tracker
 
 ## Project setup
 ```
